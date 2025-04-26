@@ -4,6 +4,7 @@ on:
   push:
     branches:
     - main
+    - alatiera/help-georges-with-ci
     - flatpak-1.0.x
     - flatpak-1.2.x
     - flatpak-1.4.x
